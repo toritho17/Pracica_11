@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "868086759873",
+    "project_id": "pracica-11-3527d",
+    "storage_bucket": "pracica-11-3527d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868086759873:android:50d415df7841b83478af40",
+        "android_client_info": {
+          "package_name": "mx.edu.itesca.pracica_11"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3lIqg0tMxzd-CJ2V-d8qJlMs1-ULundE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
